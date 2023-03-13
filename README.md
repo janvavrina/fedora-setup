@@ -60,4 +60,5 @@ code --install-extension ms-toolsai.vscode-jupyter-slideshow
 
 ## Appearance
 [Apple Emojis](https://github.com/samuelngs/apple-emoji-linux/)
+
 [Setup Apple Emojis](https://gist.github.com/win0err/9d8c7f0feabdfe8a4c9787b02c79ac51)
