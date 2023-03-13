@@ -33,7 +33,7 @@ x11gestures@joseexposito.github.io
 ```
 ## Essential apps
 - Extensions Manager
-- Black Box
+- Black Box (change default terminal in dconf)
 - GitHub Desktop
 - Rnote
 - Touché
